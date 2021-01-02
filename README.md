@@ -6,3 +6,6 @@ Build Rust code with ([how to get wasm-pack](https://rustwasm.github.io/wasm-pac
 Launch server with (inside `www`)
 * `npm install`
 * `npm start`
+
+
+[see it running](https://wolpi.github.io/game-of-life-rs-wasm/)
